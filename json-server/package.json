@@ -1,0 +1,13 @@
+{
+  "name": "json-server-compare-demo",
+  "version": "1.0.0",
+  "main": "server.cjs",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.4"
+  }
+}
