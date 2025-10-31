@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "水稻",
+    "price": 79,
+    "image": "水稻.jpeg",
+    "quantity": 1,
+    "amount": 79,
+    "size": "紫色",
+    "selected": false
+  },
+  {
+    "id": 2,
+    "title": "苹果",
+    "price": 69.9,
+    "image": "苹果.png",
+    "quantity": 1,
+    "amount": 69.9,
+    "size": "10个",
+    "selected": false
+  },
+  {
+    "id": 3,
+    "title": "香蕉",
+    "price": 14.8,
+    "image": "香蕉.png",
+    "quantity": 1,
+    "amount": 14.8,
+    "size": "1斤",
+    "selected": false
+  },
+  {
+    "id": 4,
+    "title": "西红柿",
+    "price": 15,
+    "image": "西红柿.webp",
+    "quantity": 1,
+    "amount": 15,
+    "size": "深空灰色",
+    "selected": false
+  },
+  {
+    "id": 5,
+    "title": "草莓",
+    "price": 45,
+    "image": "草莓.webp",
+    "quantity": 1,
+    "amount": 45,
+    "size": "白草莓",
+    "selected": false
+  },
+  {
+    "id": 6,
+    "title": "猕猴桃",
+    "price": 145,
+    "image": "猕猴桃.webp",
+    "quantity": 1,
+    "amount": 145,
+    "size": "白色",
+    "selected": false
+  },
+  {
+    "id": 7,
+    "title": "茄子",
+    "price": 62,
+    "image": "茄子.webp",
+    "quantity": 1,
+    "amount": 62,
+    "size": "长茄",
+    "selected": false
+  },
+  {
+    "id": 8,
+    "title": "葡萄",
+    "price": 6799,
+    "image": "葡萄.webp",
+    "quantity": 1,
+    "amount": 6799,
+    "size": "银色",
+    "selected": false
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "title": "水稻",
+    "stock": 1000,
+    "desc": "非常好吃",
+    "image": "水稻.jpeg",
+    "price": 79,
+    "sizeList": [
+      {
+        "title": "糯稻"
+      },
+      {
+        "title": "陆稻"
+      },
+      {
+        "title": "甜米稻"
+      },
+      {
+        "title": "香稻"
+      },
+      {
+        "title": "有色稻"
+      }
+    ],
+    "status": 10
+  },
+  {
+    "id": 2,
+    "title": "苹果",
+    "stock": 1000,
+    "desc": "非常好吃",
+    "image": "苹果.png",
+    "price": "33.99",
+    "sizeList": [
+      {
+        "title": "10个"
+      },
+      {
+        "title": "20个"
+      },
+      {
+        "title": "40个"
+      },
+      {
+        "title": "80个"
+      },
+      {
+        "title": "100个"
+      }
+    ],
+    "status": 10
+  },
+  {
+    "id": 3,
+    "title": "香蕉",
+    "stock": 1000,
+    "desc": "非常好吃",
+    "image": "香蕉.png",
+    "price": "33.99",
+    "sizeList": [
+      {
+        "title": "1斤"
+      },
+      {
+        "title": "2斤"
+      },
+      {
+        "title": "4斤"
+      },
+      {
+        "title": "8斤"
+      }
+    ],
+    "status": 10
+  },
+  {
+    "id": 4,
+    "title": "西红柿",
+    "stock": 1000,
+    "desc": "非常好吃",
+    "image": "西红柿.webp",
+    "price": 15,
+    "sizeList": [
+      {
+        "title": "红柿子"
+      },
+      {
+        "title": "青柿子"
+      }
+    ],
+    "status": 10
+  },
+  {
+    "id": 5,
+    "title": "草莓",
+    "stock": 1000,
+    "desc": "非常好用",
+    "image": "草莓.webp",
+    "price": 45,
+    "sizeList": [
+      {
+        "title": "普通草莓"
+      },
+      {
+        "title": "白草莓"
+      }
+    ],
+    "status": 10
+  },
+  {
+    "id": 6,
+    "title": "猕猴桃",
+    "stock": 1000,
+    "desc": "非常好用",
+    "image": "猕猴桃.webp",
+    "price": 145,
+    "sizeList": [
+      {
+        "title": "红阳猕猴桃"
+      },
+      {
+        "title": "金猕猴桃"
+      },
+      {
+        "title": "金艳猕猴桃"
+      },
+      {
+        "title": "中华猕猴桃"
+      }
+    ],
+    "status": 10
+  },
+  {
+    "id": 7,
+    "title": "葡萄",
+    "stock": 1000,
+    "desc": "非常好用",
+    "image": "葡萄.webp",
+    "price": 62,
+    "sizeList": [
+      {
+        "title": "水晶葡萄"
+      },
+      {
+        "title": "红提葡萄"
+      },
+      {
+        "title": "蓝宝石葡萄"
+      }
+    ],
+    "status": 10
+  },
+  {
+    "id": 8,
+    "title": "茄子",
+    "stock": 1000,
+    "desc": "非常好用",
+    "image": "茄子.webp",
+    "price": 6799,
+    "sizeList": [
+      {
+        "title": "长茄"
+      },
+      {
+        "title": "白茄"
+      }
+    ],
+    "status": 20
+  }
+]
